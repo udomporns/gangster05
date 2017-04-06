@@ -17,4 +17,4 @@ handlers:
   script: \1
 
 - url: .*
-  script: main.php
+  script: index.html
